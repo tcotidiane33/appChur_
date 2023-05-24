@@ -1,0 +1,1 @@
+jQuery(document).ready(function(i){jQuery("body").find(".dipl_separator").length>0&&i("body").find(".dipl_separator").each(function(){let t=i(this).find(".dipl-icon-wrapper").outerHeight(!0)/2;i(this).css("padding-top",t+"px"),i(this).css("padding-bottom",t+"px")})});
